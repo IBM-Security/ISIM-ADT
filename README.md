@@ -4,6 +4,9 @@ ISIM Adapter Development Tool
 This tool is provided as is, see:
 
  https://www.ibm.com/developerworks/library/se-adapters/index.html
+
+ Note:
+ Adapters generated with ISIM-ADT tool will not work with SDI 7.2/10/11
  
  License
 
